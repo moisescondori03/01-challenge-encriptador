@@ -1,12 +1,5 @@
 # Challenge ONE - Encriptador de texto.
 
-![Badge Release](https://img.shields.io/badge/Release%20Date:-Enero-blue)
-![Badge Java](https://img.shields.io/badge/HTML5-blue)
-![Badge Java](https://img.shields.io/badge/CSS3-blue)
-![Badge Java](https://img.shields.io/badge/JavaScript-blue)
-![Badge Finalizado](https://img.shields.io/badge/Status:-Finalizado-blue)
-
-
 ## Descrpción del Proyecto
 
 Es la resolución del **Challenge - Encriptador de Texto** utilizando **HTML5**, **CSS3** y **JavaScript** es el primer reto de la formación **Oracle Next Education (ONE)** de **Oracle + Alura LATAM**.
