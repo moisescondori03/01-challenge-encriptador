@@ -6,7 +6,6 @@
 ![Badge Java](https://img.shields.io/badge/JavaScript-blue)
 ![Badge Finalizado](https://img.shields.io/badge/Status:-Finalizado-blue)
 
-![Portada](https://github.com/VictorRodriguezL/Challenge-Encriptador-de-Texto/assets/123136998/6dbc50b6-65e1-466c-82a6-c4d22094536f)
 
 ## Descrpción del Proyecto
 
